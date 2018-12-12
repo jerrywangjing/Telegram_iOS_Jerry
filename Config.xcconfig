@@ -1,0 +1,9 @@
+//TELEGRAM_APP_NAME=Telegram
+//TELEGRAPH_BUNDLE_ID=org.telegram.TelegramEnterprise
+//TELEGRAM_APPSTORE_ID = @686449807
+
+TELEGRAM_APP_NAME=EEMChat
+TELEGRAPH_BUNDLE_ID=com.swzh.eemchat
+TELEGRAM_APPSTORE_ID = @111111111
+
+#include "Common.xcconfig"
